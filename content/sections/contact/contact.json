@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Grupo de investigación en Informática educativa",
+  "email": "cvieira@uninorte.edu.co",
+  "description": "Universidad del Norte",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/brain.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Github", "Mail", "Gruplac"],
     "showIcons": true
   }
 }

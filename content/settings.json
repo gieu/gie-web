@@ -23,7 +23,7 @@
     "imageDark":"../content/images/Logo_navbar_black.svg"},
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "Acerca del grupo", "url": "/acerca-de" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
