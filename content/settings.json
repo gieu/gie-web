@@ -17,7 +17,9 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Informática educativa",
+    "image": "../content/images/Logo_navbar.svg",
+    "imageDark":"../content/images/Logo_navbar_black.svg"},
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
