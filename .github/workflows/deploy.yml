@@ -11,14 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: GitHub Config
-        run: |
-          git config --global user.email "marianaarboleda@uninorte.edu.co"
-          git config --global user.name "mariana"
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Install dependencies
-        run: |
-          npm install
-      - name: Deploy
-        run: npm run deploy:ci
+      - uses: actions/checkout@v1
+      - uses: enriikke/gatsby-gh-pages-action@v2
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          deploy-branch: gh-pages
+          gatsby-args: --prefix-paths
