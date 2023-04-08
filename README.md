@@ -4,7 +4,7 @@
 <img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
 </a>
 
-# Gatsby Starter Portfolio Minimal Theme
+# Gatsby Starter Portfolio Minimal Theme.
 
 #### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
 
