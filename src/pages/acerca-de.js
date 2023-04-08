@@ -12,7 +12,7 @@ export default function AcercaPage() {
       <Seo title="Grupo Informática educativa" />
       <Page useSplashScreenAnimation>
         <AboutSection sectionId="about" heading="Acerca del grupo" />
-        <InterestsSection sectionId="details" heading="Details" />
+        <InterestsSection sectionId="details" heading="Líneas de investigación" />
       </Page>
     </>
   );

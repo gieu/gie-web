@@ -1,65 +1,37 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Ambientes de aprendizaje",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/virtual-class.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Comunicación y educación",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/conversation.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Recursos educativos",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/virtual.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Ciencia de datos",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/asistente-de-robot.png",
         "alt": ""
       }
     }
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
+    "label": "+ Ver más",
     "initiallyShownInterests": 5
   }
 }
