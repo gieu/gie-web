@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "¡Hola!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/foto.png",
+    "alt": ""
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix":"Fomentamos el desarrollo de habilidades STEM ",
+    "highlight":"para todas y todos",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Todas y todos los estudiantes, merecen construir un futuro sólido en un mundo complejo. Estamos dedicados a promover la investigación STEM a través de la tecnología para incentivar su uso y cambiar la forma en la que se incluye en las aulas.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Github", "Mail"],
     "showIcons": false
   }
 }
