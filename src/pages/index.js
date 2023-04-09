@@ -19,7 +19,6 @@ export default function IndexPage() {
         <ArticlesSection sectionId="articles" heading="Proyectos recientes" sources={['blog']} />
         {/* <AboutSection sectionId="about" heading="About Portfolio Minimal" /> */}
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
-        {/* <ProjectsSection sectionId="features" heading="Built-in Features" /> */}
         <ContactSection sectionId="contacto" heading="Contacto" />
       </Page>
     </>
