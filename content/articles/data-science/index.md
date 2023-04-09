@@ -1,18 +1,18 @@
 ---
-title: "This is an exemplary article for the blog."
-description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+title: "Educación en ciencia de datos"
+description: ""
+date: "2023"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/machine-learning.jpg"
+  alt: "Machine learning"
+  caption: '<a href="https://www.freepik.es/vector-gratis/ilustracion-concepto-abstracto-herramientas-marketing-impulsadas-ai_12291062.htm#query=machine%20learning&position=0&from_view=search&track=ais">Imagen de vectorjuice</a> en Freepik'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Material didáctico"
+  - "Ciencia de datos"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
+  - "Material didáctico"
+  - "Ciencia de datos"
+  - "Diseño instruccional"
   - "Blog"
 ---
 
