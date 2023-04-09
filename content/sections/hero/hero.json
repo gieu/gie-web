@@ -1,11 +1,11 @@
 {
-  "intro": "¡Hola!",
+  "intro": "Grupo de investigación en Informática Educativa de la Universidad del Norte",
   "heroPhoto": {
     "src": "../../images/foto.png",
     "alt": ""
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/waving.png",
     "alt": "Waving Hand Emoji"
   },
   "title": "",

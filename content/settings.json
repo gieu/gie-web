@@ -17,7 +17,7 @@
   },
   "siteConfiguration": {
     "logo": { "text": "Informática educativa",
-    "image": "../content/images/Logo_navbar.svg",
+    "image": "../content/images/Logo_navbar_h.svg",
     "imageDark":"../content/images/Logo_navbar_black.svg"},
     "navigation": {
       "header": [
