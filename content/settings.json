@@ -1,20 +1,18 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "language": "es",
+    "siteUrl": "https://marianaarboleda.github.io/gie-web/",
+    "title": "Grupo de investigación en Informática Educativa. Universidad del Norte",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "Información sobre el grupo de investigación, proyectos y publicaciones",
+    "author": "Mariana Arboleda",
+    "avatar": "../content/images/favicon.png",
+    "bio": "Grupo de investigación de la Universidad del Norte, Barranquilla, Colombia",
     "social": {
-      "behance": "https://behance.com",
+
       "gruplac": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008079",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/gieu",
+      "mail": "mailto:cvieira@uninorte.edu.co"
     }
   },
   "siteConfiguration": {
@@ -24,14 +22,14 @@
     "navigation": {
       "header": [
         { "label": "Acerca del grupo", "url": "/acerca-de" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Proyectos", "url": "/blog" },
+        { "label": "Publicaciones", "url": "/publicaciones" },
+        { "label": "Github", "url": "https://github.com/gieu" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Gruplac",
+        "url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008079"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

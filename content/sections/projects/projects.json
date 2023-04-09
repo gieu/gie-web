@@ -2,46 +2,42 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Evaluación",
+      "title": "Assessment of a professional development program on computational thinking for disciplinary teachers",
+      "description": "This work in progress paper analyzes disciplinary teachers’ self-efficacy beliefs in Computational Thinking (CT) during a professional development program on (CT). The increasing number of professional development programs to promote the integration of CT into the curricula brings the challenge of understanding how to effectively assess them.",
+      "tags": ["Evaluación", "Desarrollo profesional docente"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "",
+        "linkTo": "https://peer.asee.org/41109.pdf"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://peer.asee.org/41109.pdf"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Creencias",
+      "title": "Creencias y concepciones docentes de educación superior en enseñanza remota en el Contexto de COVID-19",
+      "description": "Este estudio busca explorar cómo cambian las creencias de los docentes y sus concepciones sobre la enseñanza en línea como resultado de su experiencia en modalidad remota por la emergencia sanitaria en una institución de educación superior colombiana. Para esto, se utiliza un diseño de pretest-postest que identifica cómo cambian los factores asociados a la autoeficacia tecnológica-pedagógica, la actitud hacia una práctica reflexiva, las percepciones de apoyo institucional, y las concepciones sobre la enseñanza en línea, y en qué medida la experiencia de los docentes durante su implementación de modalidad remota influye en estos cambios.",
+      "tags": ["Creencias, educación superior"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://www.redalyc.org/journal/3314/331473090002/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
