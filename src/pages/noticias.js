@@ -5,7 +5,7 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
-export default function PublicacionesPage() {
+export default function NoticiasPage() {
   return (
     <>
       <Seo title="Grupo Informática educativa" />
