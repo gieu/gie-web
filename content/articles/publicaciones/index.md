@@ -28,6 +28,7 @@ R Quintero-Manes, C Vieira, N Hernandez-Vargas. 2022 IEEE Frontiers in Education
 
 [Engaging students in active exploration of programming worked examples](https://link.springer.com/article/10.1007/s10639-022-11247-6)
 S Garces, C Vieira, G Ravai, AJ Magana. Education and Information Technologies, 1-18 — 2022
+
 [Assessment of a professional development program on computational thinking for disciplinary teachers]()
 A Espinal, C Vieira, A Magana.2022 ASEE Annual Conference & Exposition —2022
 
@@ -69,62 +70,90 @@ V Abuchar, J De La Hoz, C Vieira, C Arteta. REES AAEE 2021 conference: Engineeri
 [Ambientes de aprendizaje enriquecidos con TIC en educación infantil: una mirada internacional](https://books.google.com/books?hl=en&lr=&id=z6JkEAAAQBAJ&oi=fnd&pg=PP1&dq=info:1nS17ip7CN0J:scholar.google.com&ots=se3UrQ1pVW&sig=GiNgZQWDEU4BLnVdwsaAuZzwGLs) CR Barreto, JC Barrios, CA Acevedo, MP Borjas, VN Angarita. Universidad del Norte—2021
 
 [COMPETENCIAS INTERCULTURALES DESDE AMBIENTES VIRTUALES DE APRENDIZAJE: PROPUESTAS DE ACTIVIDADES DE APRENDIZAJE PARA PROFESORADO](https://books.google.com/books?hl=en&lr=&id=ebtmEAAAQBAJ&oi=fnd&pg=PA251&dq=info:VLa_OUZj5HQJ:scholar.google.com&ots=8wTk0v5aFT&sig=of5og2GsT7Y1rbQSZFZXWhQZEvs) CR Barreto, JC Barrios. Intervención educativa en contextos sociales: Educación social especializada … —2021
+
 [Las ecologías de aprendizaje en la formación docente a través de las TIC](http://conocimientoglobal.org/revista/index.php/cglobal/article/view/139)
 CB Navarro, CR Barreto. Conocimiento global 6(S1), 180-198—2021
+
 [Design of Ludic Evaluation Experiences Mediated by ICTs to Assess Citizen Competencies](http://repositorio.pedagogica.edu.co/handle/20.500.12209/13761)
 ON Asprilla Perozo, MP Borjas, CR Barreto. Universidad Pedagógica Nacional—2021
+
 [Uso transformador de tecnologías digitales en educación superior](https://books.google.com/books?hl=en&lr=&id=ixNUEAAAQBAJ&oi=fnd&pg=PT16&dq=info:ZxU46RPMKzIJ:scholar.google.com&ots=Dy272romAH&sig=PO0B6Db6LjykaKUongFNih799vg)
 ÁHG Panqueva, JMD Montoliu, LAO Gómez, MFA Vargas, DHB García, ... . Fondo Editorial–Ediciones Universidad Cooperativa de Colombia—2021
+
 [ANTECEDENTES INVESTIGATIVOS EN LA INCORPORACIÓN DE LAS TIC EN EDUCACIÓN INFANTIL](https://books.google.com/books?hl=en&lr=&id=z6JkEAAAQBAJ&oi=fnd&pg=PA23&dq=info:GkMeMqlEJPcJ:scholar.google.com&ots=se3UrQ2kQ-&sig=V7um8EGXqVOMQvMpqUh6J3RDe38)
 CR Barreto, CA Acevedo. Ambientes de aprendizaje enriquecidos con TIC en educación infantil: Una … —2021
+
 [DISEÑO DE ACTIVIDADES PARA PREESCOLAR MEDIADAS POR LA REALIDAD AUMENTADA PARA FAVORECER LAS COMPETENCIAS CIUDADANAS Y COMUNICATIVAS EN NIÑOS Y NIÑAS](https://books.google.com/books?hl=en&lr=&id=z6JkEAAAQBAJ&oi=fnd&pg=PA209&dq=info:5kpDU7kEp0gJ:scholar.google.com&ots=se3UrQ2lTY&sig=AM2sQ_7EtpSYpUuHkgbR5vdmpQs)
 VN Angarita, CR Barreto, R Cózar-Gutiérrez. Ambientes de aprendizaje enriquecidos con TIC en educación infantil: Una … —2021
+
 [RIESGOS RELACIONADOS CON LAS CONDUCTAS DE VIOLENCIAS DE JÓVENES Y NIÑOS EN LAS REDES SOCIALES](https://books.google.com/books?hl=en&lr=&id=z6JkEAAAQBAJ&oi=fnd&pg=PA255&dq=info:2JhSPUPwJzIJ:scholar.google.com&ots=se3UrQ2mW1&sig=0T4k-7GkZKyIDrF8UG4H8pz6ZgQ)
 LC Peñaloza, AN Rivera, C Ricardo, ÁMT Pinazo. Ambientes de aprendizaje enriquecidos con TIC en educación infantil: Una …—2021
+
 [DISEÑO DE EXPERIENCIAS DE APRENDIZAJE MEDIADAS POR TIC PARA FAVORECER LAS COMPETENCIAS CIUDADANAS Y COMUNICATIVAS EN LA INFANCIA](https://books.google.com/books?hl=en&lr=&id=z6JkEAAAQBAJ&oi=fnd&pg=PA63&dq=info:3jcx4WNAXxUJ:scholar.google.com&ots=se3UrQ2nS_&sig=oStu0kD59q6SYaGK3J05QyodbJA)
 VN Angarita, CR Barreto, JC Barrios, CA Acevedo. Ambientes de aprendizaje enriquecidos con TIC en educación infantil: Una … —2021
+
 [Características de los ambientes de aprendizaje enriquecidos con TIC para la comprensión lectora en el ciclo de la Educación Básica](https://revistas.unilibre.edu.co/index.php/saber/article/view/7533)
 WE Pérez-Benítez, CTR Barreto. Saber, Ciencia Y Libertad 16(1), 278-300—2021
 (Web Apps for Intercultural Competences and Sustainable Development: A Case Study in Higher Education](https://www.igi-global.com/chapter/web-apps-for-intercultural-competences-and-sustainable-development/282321)
 C Ricardo-Barreto, J Mizuno, D Jabba, H Llinás, A Medina, CA Acevedo, ... . Handbook of Research on Promoting Social Justice for Immigrants and Refugees … —2021
+
 [Flipping a computational modeling class: Strategies to engage students and foster active learning](https://ieeexplore.ieee.org/abstract/document/9273890)
 JD Ortega-Alvarez, C Vieira, N Guarín-Zapata, J Gómez. 2020 IEEE Frontiers in Education Conference(FIE), 1-4— 2020
+
 [Male-on-male child and adolescent sexual abuse in the Caribbean Region of Colombia: a secondary analysis of medico-legal reports](https://www.mdpi.com/883588)
 EL Escalante-Barrios, S Fàbregues, J Meneses, MM García-Vita, D Jabba, ... . International journal of environmental research and public health 17(21), 8248— 2020
+
 [Design and development of a web App for ICT and intercultural competences professor self-training](https://dl.acm.org/doi/abs/10.1145/3436756.3437014)
 C Ricardo-Barreto, D Jabba. n 2020 12th International Conference on Education Technology and Computers, 17-20—2020
+
 [Trends in using ICT resources by professors in HEIs(higher education institutions) ](https://www.informingscience.org/Publications/4601?Type=...)
 CT Ricardo-Barreto, DJ Molinares, H Llinás, JMP Santodomíngo, ... . Journal of Information Technology Education: Research 19, 395-425— 2020
+
 [Financial independence and academic achievement: are there key factors of transition to adulthood for young higher education students in Colombia?](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01330/full)
 MP Borjas, C Ricardo, EL Escalante-Barrios, J Valencia, J Aparicio. Frontiers in Psychology 11, 1330— 2020
+
 [Potencial de la Educación a Distancia para reducir brechas de aprendizaje en Educación Superior: Una mirada al caso colombiano](https://www.tandfonline.com/doi/abs/10.1080/08923647.2020.1756024)
 C Ricardo, JD Parra, M Borjas, JV Cobo, J Cano. American Journal of Distance Education 34(2), 157-176— 2020
+
 [Proceso de formación para el uso y apropiación de las TIC en pre-escolares de zonas rurales](https://dialnet.unirioja.es/servlet/articulo?codigo=8724046)
 MP Borjas, CR Barreto, VA Carriazo. Revolución en la Formación y la Capacitación para el Siglo XXI, 429-439—- 2020
+
 [Mediaciones tecnológicas e innovación en los procesos de enseñanza y aprendizaje](https://repositorio.americana.edu.co/handle/001/62)
 A Ceballos Vélez, AI García Caro, V Navarro Angarita, R Cozár, … . Corporación Universitaria Americana—2020
+
 [Recomendaciones para fomentar la calidad en prácticas educativas mediadas por tecnologías digitales](https://scholar.google.com/scholar?cluster=1804483481145737244&hl=en&oi=scholarr)
 JM Duart, GA Gallego Trujillo, LA Osorio Gómez, WL Pardo Osorio, ... . Ministerio de Educación Nacional—2020
+
 [Integración curricular de las tecnologías de la información y de la comunicación: una aproximación conceptual](https://manglar.uninorte.edu.co/bitstream/handle/10584/9252/9789587892185 eInvestigacion evaluativa curricular.pdf?sequence=1&isAllowed=y#page=115)
 CR Barreto, ACV Peña. INVESTIGACIÓN EVALUATIVA CURRICULAR, 101—2020
+
 [Investigación educativa desde el Caribe colombiano](http://manglar.uninorte.edu.co/bitstream/handle/10584/8805/9789587891294 eInvestigación Educativa del Caribe Col.pdf?sequence=1)
 J Mizuno Haydar, JA Aparicio Serrano, E Ariza Muñoz, ... . Universidad del Norte—2019
+
 [Diseño de experiencias de ludoevaluación mediadas por las TIC para valorar las competencias ciudadanas](https://revistas.pedagogica.edu.co/index.php/NYN/article/view/7884)
 ONA Perozo, MP Borjas, CR Barreto . Nodos y nudos 6(46)— 2019
+
 [THE THE MOOC IN HIGHER EDUCATION]n(http://repository.unilibre.edu.co/handle/10901/13593)
 CP Baloco Navarro, CT Ricardo Barreto. Universidad Libre Sede Cartagena—2018
+
 [Formación y desarrollo de competencias TIC e intercultural de educadores infantiles para la convivencia escolar](https://revistaseug.ugr.es/index.php/revpaz/article/view/6490)
 VN Angarita, CTR Barreto, CMA Acevedo, JJC Barrios, E Escalante. Revista de Paz y Conflictos 11(1), 181-208— 2018
+
 [Colombian elders and their use of handheld digital devices](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02009/full)
 C Ricardo-Barreto, M Cervantes, J Valencia, J Cano-Barrios, … . Frontiers in psychology 9, 2009—2018
+
 [Diseño de actividades de aprendizaje virtuales para favorecer el desarrollo de la competencia intercultural del profesorado](https://books.google.com/books?hl=en&lr=&id=2tZqDwAAQBAJ&oi=fnd&pg=PA217&dq=info:C6mKmFz95ZkJ:scholar.google.com&ots=GyNE7mK1eV&sig=KFHIOQIunILQtDW-5ngrgVtsv78)
 CR Barreto, JC Barrios. Pedagogía social en Iberoamérica: Fundamentos, ámbitos y retos para la … —2018
+
 [Los MOOC en la educación superior](https://dialnet.unirioja.es/servlet/articulo?codigo=6770964)
 CPB Navarro, CTR Barreto. Saber, ciencia y libertad 13(2), 250-260—2018
+
 [Training and development of Digital and Intercultural competence of early childhood educators to promote school coexistence](https://scholar.google.com/scholar?cluster=4883943785742875768&hl=en&oi=scholarr)
 V Navarro Angarita, CT Ricardo Barreto, CM Astorga Acevedo, ... . REVISTA DE PAZ Y CONFLICTOS 11(1), 181-208—2018
+
 [Fortalecimiento de la competencia TIC de estudiantes de educación superior en Ambientes Virtuales de Aprendizaje](https://www.academia.edu/download/56841447/Fortalecimiento_de_la_competencia_TIC_de_estudiantes_de_educacion_superior_en_AVAs.pdf)
 JC Barrios, A DOMINGUEZ, CR Barreto. Espacios—2018
+
 [UNA MIRADA A LOS MOOC DESDE LA OFERTA DE UNIVERSIDADES COLOMBIANAS](http://educacioneningenieria.org/index.php/edi/article/view/827)
 C Baloco-Navarro, C Ricardo-Barreto. Revista Educación en Ingenierías 13(25), 37-43—2018
 [Las Tic en educación superior: Experiencias de innovación](https://books.google.com/books?hl=en&lr=&id=YLBJDwAAQBAJ&oi=fnd&pg=PP1&dq=info:o6SdLcYSrAAJ:scholar.google.com&ots=XZHcyzVheL&sig=2DXWLtOztxJ9UsFWgMeh5DZNy1A) C Ricardo Barreto, F Iriarte Díazgranados . Universidad del Norte—2017
@@ -135,35 +164,48 @@ C Ricardo Barreto. Universidad del Norte—2017
 [Orientaciones pedagógicas para enriquecer las prácticas ludoevaluativas desde TIC en contextos universitarios](https://revistavirtual.ucn.edu.co/index.php/RevistaUCN/article/view/944)
 CMA Acevedo, JER Torres, SS Arcón, IMRCR Caly, CTR Barreto, ...
 .Revista Virtual Universidad Católica del Norte, 57-76—2017
+
 [Interculturalidade na formação de estudantes de saúde: uma experiência na Colombia](https://www.scielo.org.mx/scielo.php?pid=S2007-74592017000300175&script=sci_abstract&tlng=pt)
 LM Alonso-Palacio, J Cepeda-Díaz, LL Castillo-Riascos, MA Pérez, ...
 .Horizonte sanitario 16(3), 175-182—2017
+
 [Interculturalité dans la formation des étudiants en santé: Une expérience colombienne](https://www.scielo.org.mx/scielo.php?pid=S2007-74592017000300175&script=sci_abstract&tlng=fr)
 LM Alonso-Palacio, J Cepeda-Díaz, LL Castillo-Riascos, MA Pérez, ...
 . Horizonte sanitario 16(3), 175-182—2017
+
 [Interculturality in the formation of health students: A Colombian experience](https://www.scielo.org.mx/scielo.php?pid=S2007-74592017000300175&script=sci_arttext)
 LM Alonso-Palacio, J Cepeda-Díaz, LL Castillo-Riascos, MA Pérez, ...
 . Horizonte sanitario 16(3), 175-182—2017
+
 [Pedagogic orientations to enrich ludo-evaluative practices from ICT in university contexts](https://scholar.google.com/scholar?cluster=11899754785338610770&hl=en&oi=scholarr)
 CM Astorga Acevedo, JE Rodriguez Torres, S Saad Arcon, ...
 . REVISTA VIRTUAL UNIVERSIDAD CATOLICA DEL NORTE 52, 57-76—2017
+
 [Ambientes virtuales de aprendizaje](https://scholar.google.com/scholar?cluster=17162899490995528026&hl=en&oi=scholarr)
 C Ricardo. Barranquilla: Universidad del Norte editorial—2017
+
 [Las TIC en Educación Superior: Experiencias de Innovación. Editorial Universidad del Norte. Colombia](https://scholar.google.com/scholar?cluster=742264597591253705&hl=en&oi=scholarr)
 C Ricardo, F Iriarte—2017
+
 [Las Tic en la educación superior](https://scholar.google.com/scholar?cluster=8406763332267755593&hl=en&oi=scholarr)
 C Ricardo-Barreto, F Iriarte-Diazgranados. Experiencias de innovación. Colombia: Universidad del Norte editorial … — 2017
+
 [Tecnologías de información y comunicación en educación superior](https://scholar.google.com/scholar?cluster=3381012529080009189&hl=en&oi=scholarr)
 F Iriarte, C Ricardo, M Órdonez, A Astorga. Las TIC en educación superior: experiencias de innovación. Barranquilla …—2017
+
 [Uso de recursos educativos en educación superior](https://reunir.unir.net/handle/123456789/10958)
 F Iriarte Díazgranados, C Ricardo Barreto, B Ballesteros Cantillo, ...
 . TIC en Educación Superior: Experiencias de Innovación—2017
+
 [Competencias interculturales de profesores virtuales en universidades de la Costa Caribe Colombiana](https://www.redalyc.org/pdf/310/31053180011.pdf)
 C Ricardo, H Llinás, S Hernandez. Opción, 263-279—2017
+
 [Intercultural Competences of higher education students at Universidad del Norte](http://www.scielo.org.co/scielo.php?pid=S1692-58582016000200159&script=sci_abstract&tlng=en)
 J Cano Barrios, C Ricardo Barreto, F Del Pozo Serrano. Encuentros 14(2), 159-174—2016
+
 [Pedagogical intercultural practice of teachers in virtual enviroments](https://dergipark.org.tr/en/pub/tojde/article/263488)
 CR Barreto, JM Haydar. Turkish Online Journal of Distance Education 17(4)—2016
+
 [Intercultural Competences of higher education students at Universidad del Norte/Competencia intercultural de estudiantado de educación superior: Un estudio en la Universidad …](http://ojs.uac.edu.co/index.php/encuentros/article/view/734)
 JC Barrios, CR Barreto, FDP Serrano. Encuentros 14(2)—2016
 
@@ -193,7 +235,7 @@ E Said Hung, F Iriarte Díaz-Granados, D Jabba Molinares, ...
 [Recursos educativos digitales para la educación infantil(REDEI)](https://www.redalyc.org/pdf/853/85331022002.pdf)
 CE y TIC, A De Castro, ... Revista Zona Próxima 20 …—2014
 
-[[Diseño de un programa de formación docente frente al uso pedagógico de los recursos educativos digitales & tecnológicos, para el fortalecimiento de las competencias TIC Design …](https://scholar.google.com/scholar?cluster=6130469093458703315&hl=en&oi=scholarr)
+[Diseño de un programa de formación docente frente al uso pedagógico de los recursos educativos digitales & tecnológicos, para el fortalecimiento de las competencias TIC Design …](https://scholar.google.com/scholar?cluster=6130469093458703315&hl=en&oi=scholarr)
 C Astorga, C Ricardo. Unpublished manuscript]. Universidad del Norte, Colombia—2014
 
 [REDEI: recursos educativos digitales](https://scholar.google.com/scholar?cluster=14110290815899322250&hl=en&oi=scholarr)
