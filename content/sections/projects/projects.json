@@ -2,36 +2,19 @@
   "projects": [
     {
       "visible": true,
-      "category": "Evaluación",
-      "title": "Assessment of a professional development program on computational thinking for disciplinary teachers",
-      "description": "This work in progress paper analyzes disciplinary teachers’ self-efficacy beliefs in Computational Thinking (CT) during a professional development program on (CT). The increasing number of professional development programs to promote the integration of CT into the curricula brings the challenge of understanding how to effectively assess them.",
-      "tags": ["Evaluación", "Desarrollo profesional docente"],
+      "category": "Club",
+      "title": "Club de escritura académica",
+      "description": "Todos los martes a las 2:00pm reservamos un espacio para apoyarnos en el proceso de escritura académica",
+      "tags": ["Escritura", "Actividad"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Club_0001.jpg",
         "alt": "",
-        "linkTo": "https://peer.asee.org/41109.pdf"
+        "linkTo": ""
       },
       "links": [
         {
           "type": "external",
-          "url": "https://peer.asee.org/41109.pdf"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Creencias",
-      "title": "Creencias y concepciones docentes de educación superior en enseñanza remota en el Contexto de COVID-19",
-      "description": "Este estudio busca explorar cómo cambian las creencias de los docentes y sus concepciones sobre la enseñanza en línea como resultado de su experiencia en modalidad remota por la emergencia sanitaria en una institución de educación superior colombiana. Para esto, se utiliza un diseño de pretest-postest que identifica cómo cambian los factores asociados a la autoeficacia tecnológica-pedagógica, la actitud hacia una práctica reflexiva, las percepciones de apoyo institucional, y las concepciones sobre la enseñanza en línea, y en qué medida la experiencia de los docentes durante su implementación de modalidad remota influye en estos cambios.",
-      "tags": ["Creencias, educación superior"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://www.redalyc.org/journal/3314/331473090002/"
+          "url": "/Club de Escritura.ics"
         }
       ]
     }

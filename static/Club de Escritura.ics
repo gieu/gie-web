@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:SA Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="CAMILO VIEIRA MEJIA";RSVP=TRUE:mailto:cvieira@uninorte.edu.co
+ATTENDEE;CN="Mariana Arboleda Florez";RSVP=TRUE:mailto:marianaarboleda@unin
+	orte.edu.co
+ATTENDEE;CN="Cinthia Milena Astorga Acevedo";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	:mailto:castorga@uninorte.edu.co
+CLASS:PUBLIC
+CREATED:20230416T215604Z
+DESCRIPTION:\n_____________________________________________________________
+	___________________ \nReunión de Microsoft Teams \nÚnase a través de su
+	 ordenador\, aplicación móvil o dispositivo de sala \nHaga clic aquí pa
+	ra unirse a la reunión <https://teams.microsoft.com/l/meetup-join/19%3ame
+	eting_Yzg5ZDVhNjktN2RlNS00MDI1LTk3ZWUtOWFiZjg2NWE1MWQ1%40thread.v2/0?conte
+	xt=%7b%22Tid%22%3a%22bab0b679-bd5f-4fe8-b516-c6b8b317c782%22%2c%22Oid%22%3
+	a%22206be9f7-bc73-403f-9607-3ae0a08393fc%22%7d>  \nID de la reunión: 244 
+	284 339 593 \nCódigo de acceso: TxpvCZ \nDescargar Teams <https://www.mic
+	rosoft.com/en-us/microsoft-teams/download-app>  | Unirse en la web <https:
+	//www.microsoft.com/microsoft-teams/join-a-meeting> \nInfórmese <https://
+	aka.ms/JoinTeamsMeeting>  | Opciones de reunión <https://teams.microsoft.
+	com/meetingOptions/?organizerId=206be9f7-bc73-403f-9607-3ae0a08393fc&tenan
+	tId=bab0b679-bd5f-4fe8-b516-c6b8b317c782&threadId=19_meeting_Yzg5ZDVhNjktN
+	2RlNS00MDI1LTk3ZWUtOWFiZjg2NWE1MWQ1@thread.v2&messageId=0&language=es-ES> 
+	 \n_______________________________________________________________________
+	_________ \nEste correo no representa opinión o consentimiento oficial de
+	 la Universidad del Norte\, por lo que esta no adquiere ninguna responsabi
+	lidad por su contenido\, salvo en el caso de funcionarios en ejercicio de 
+	atribuciones reglamentarias. Puede provenir de una cuenta ofrecida a funci
+	onarios o estudiantes\, como parte del ejercicio educativo\, evento en el 
+	cual tanto el mensaje como sus anexos son estrictamente confidenciales. Ha
+	 sido analizado con software antivirus\; no obstante\, no se garantiza que
+	 sea seguro o no contenga errores o virus\, por lo que la Universidad del 
+	Norte no se hace responsable de su transmisión. \n
+DTEND;TZID="SA Pacific Standard Time":20230131T160000
+DTSTAMP:20230126T162202Z
+DTSTART;TZID="SA Pacific Standard Time":20230131T140000
+LAST-MODIFIED:20230416T215604Z
+ORGANIZER;CN="CAMILO VIEIRA MEJIA":mailto:cvieira@uninorte.edu.co
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=25;BYDAY=TU
+SEQUENCE:0
+SUMMARY:Club de Escritura
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000045AB5B51A231D901000000000000000
+	010000000E20E743CF0635041B2481022A70FA49A
+X-ALT-DESC;FMTTYPE=text/html:<html><head>\n\n</head>\n<body>\n<br>\n<div st
+	yle="width:100%\;height: 20px\;"><span style="white-space:nowrap\;color:#5
+	F5F5F\;opacity:.36\;">____________________________________________________
+	____________________________</span>\n</div>\n<div class="me-email-text" st
+	yle="color:#252424\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,A
+	rial\,sans-serif\;" lang="es-ES">\n<div style="margin-top: 24px\; margin-b
+	ottom: 20px\;"><span style="font-size: 24px\; color:#252424">Reunión de M
+	icrosoft Teams</span>\n</div>\n<div style="margin-bottom: 20px\;">\n<div s
+	tyle="margin-top: 0px\; margin-bottom: 0px\; font-weight: bold"><span styl
+	e="font-size: 14px\; color:#252424">Únase a través de su ordenador\, apl
+	icación móvil o dispositivo de sala</span>\n</div>\n<a class="me-email-h
+	eadline" style="font-size: 14px\;font-family:'Segoe UI Semibold'\,'Segoe U
+	I'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;text-decoration: under
+	line\;color: #6264a7\;" href="https://teams.microsoft.com/l/meetup-join/19
+	%3ameeting_Yzg5ZDVhNjktN2RlNS00MDI1LTk3ZWUtOWFiZjg2NWE1MWQ1%40thread.v2/0?
+	context=%7b%22Tid%22%3a%22bab0b679-bd5f-4fe8-b516-c6b8b317c782%22%2c%22Oid
+	%22%3a%22206be9f7-bc73-403f-9607-3ae0a08393fc%22%7d" target="_blank" rel="
+	noreferrer noopener">Haga\n clic aquí para unirse a la reunión</a> </div
+	>\n<div style="margin-bottom:20px\; margin-top:20px">\n<div style="margin-
+	bottom:4px"><span data-tid="meeting-code" style="font-size: 14px\; color:#
+	252424\;">ID de la reunión:\n<span style="font-size:16px\; color:#252424\
+	;">244 284 339 593</span> </span><br>\n<span style="font-size: 14px\; colo
+	r:#252424\;">Código de acceso: </span><span style="font-size: 16px\; colo
+	r:#252424\;">TxpvCZ\n</span>\n<div style="font-size: 14px\;"><a class="me-
+	email-link" style="font-size: 14px\;text-decoration: underline\;color: #62
+	64a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-ser
+	if\;" target="_blank" href="https://www.microsoft.com/en-us/microsoft-team
+	s/download-app" rel="noreferrer noopener">Descargar\n Teams</a> | <a class
+	="me-email-link" style="font-size: 14px\;text-decoration: underline\;color
+	: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,san
+	s-serif\;" target="_blank" href="https://www.microsoft.com/microsoft-teams
+	/join-a-meeting" rel="noreferrer noopener">\nUnirse en la web</a></div>\n<
+	/div>\n</div>\n<div style="margin-bottom: 24px\;margin-top: 20px\;"><a cla
+	ss="me-email-link" style="font-size: 14px\;text-decoration: underline\;col
+	or: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,s
+	ans-serif\;" target="_blank" href="https://aka.ms/JoinTeamsMeeting" rel="n
+	oreferrer noopener">Infórmese</a>\n | <a class="me-email-link" style="fon
+	t-size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Seg
+	oe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" 
+	href="https://teams.microsoft.com/meetingOptions/?organizerId=206be9f7-bc7
+	3-403f-9607-3ae0a08393fc&amp\;tenantId=bab0b679-bd5f-4fe8-b516-c6b8b317c78
+	2&amp\;threadId=19_meeting_Yzg5ZDVhNjktN2RlNS00MDI1LTk3ZWUtOWFiZjg2NWE1MWQ
+	1@thread.v2&amp\;messageId=0&amp\;language=es-ES" rel="noreferrer noopener
+	">\nOpciones de reunión</a> </div>\n</div>\n<div style="font-size: 14px\;
+	 margin-bottom: 4px\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,
+	Arial\,sans-serif\;">\n</div>\n<div style="font-size: 12px\;"></div>\n<div
+	></div>\n<div style="width:100%\;height: 20px\;"><span style="white-space:
+	nowrap\;color:#5F5F5F\;opacity:.36\;">____________________________________
+	____________________________________________</span>\n</div>\nEste correo n
+	o representa opinión o consentimiento oficial de la Universidad del Norte
+	\, por lo que esta no adquiere ninguna responsabilidad por su contenido\, 
+	salvo en el caso de funcionarios en ejercicio de atribuciones reglamentari
+	as. Puede provenir de una\n cuenta ofrecida a funcionarios o estudiantes\,
+	 como parte del ejercicio educativo\, evento en el cual tanto el mensaje c
+	omo sus anexos son estrictamente confidenciales. Ha sido analizado con sof
+	tware antivirus\; no obstante\, no se garantiza que sea seguro o no\n cont
+	enga errores o virus\, por lo que la Universidad del Norte no se hace resp
+	onsable de su transmisión.\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230126T162202Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

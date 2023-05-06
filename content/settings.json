@@ -23,8 +23,9 @@
       "header": [
         { "label": "Acerca del grupo", "url": "/acerca-de" },
         { "label": "Proyectos", "url": "/blog" },
+        { "label": "Noticias", "url": "/noticias" },
         { "label": "Publicaciones", "url": "/publicaciones" },
-        { "label": "Github", "url": "https://github.com/gieu" }
+        { "openNewTab":true, "label": "Github", "url": "https://github.com/gieu" }
       ],
       "ctaButton": {
         "openNewTab": true,

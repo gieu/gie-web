@@ -5,12 +5,12 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
-export default function PublicacionesPage() {
+export default function NoticiasPage() {
   return (
     <>
       <Seo title="Grupo Informática educativa" />
       <Page useSplashScreenAnimation>
-      <ProjectsSection sectionId="features" heading="Publicaciones recientes" />
+      <ProjectsSection sectionId="features" heading="Noticias y actividad reciente" />
       </Page>
     </>
   );
