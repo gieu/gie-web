@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[774],{6310:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var a=n(7294),i=n(8759);function r(){return a.createElement(i.T3,null,a.createElement(i.fw,{type:"fadeUp"},a.createElement(i.$0,{sectionId:"publicaciones",heading:"Publicaciones"})))}}}]);
+//# sourceMappingURL=component---src-pages-pubs-js-caac3be00a0441eb929d.js.map

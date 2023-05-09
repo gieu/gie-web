@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[193],{9151:function(e,t,a){a.r(t),a.d(t,{default:function(){return i}});var n=a(7294),r=a(8759);function i(){return n.createElement(n.Fragment,null,n.createElement(r.pQ,{title:"Grupo Informática educativa"}),n.createElement(r.T3,{useSplashScreenAnimation:!0},n.createElement(r.Au,{sectionId:"features",heading:"Noticias y actividad reciente"})))}}}]);
+//# sourceMappingURL=component---src-pages-noticias-js-1484c593150eb1d29ffe.js.map

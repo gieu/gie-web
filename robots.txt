@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://marianaarboleda.github.io/gie-web/sitemap-index.xml
+Host: https://marianaarboleda.github.io
