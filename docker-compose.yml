@@ -5,6 +5,5 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-      target: deploy
     ports:
       - 8009:80

@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://giewebmaster.gatsbyjs.io/", // Used for sitemap generation
+        siteUrl: "https://grupoinformaticaeducativa.uninorte.edu.co/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Grupo Informática educativa", // Used in manifest.json
@@ -26,4 +26,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: `/web`,
 };

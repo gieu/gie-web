@@ -8,7 +8,7 @@ RUN npm config set fetch-retry-maxtimeout 120000
 RUN npm install
 RUN npm install -g gatsby-cli
 
-RUN gatsby build
+RUN gatsby build --prefix-paths
 
 EXPOSE 80
 
