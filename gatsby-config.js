@@ -1,10 +1,9 @@
 module.exports = {
-  pathPrefix: "/gie-web",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://marianaarboleda.github.io/gie-web/", // Used for sitemap generation
+        siteUrl: "https://giewebmaster.gatsbyjs.io/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Grupo Informática educativa", // Used in manifest.json
