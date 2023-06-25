@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
@@ -9,7 +8,7 @@ module.exports = {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Grupo Informática educativa", // Used in manifest.json
           shortName: "GIE", // Used in manifest.json
-          startUrl: "", // Used in manifest.json
+          startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json

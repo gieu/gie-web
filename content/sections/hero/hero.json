@@ -16,7 +16,7 @@
   },
   "description": "Todas y todos los estudiantes, merecen construir un futuro sólido en un mundo complejo. Estamos dedicados a promover la investigación STEM a través de la tecnología para incentivar su uso y cambiar la forma en la que se incluye en las aulas.",
   "socialProfiles": {
-    "from": ["Gruplac","Github", "Mail"],
+    "from": ["Github", "Mail"],
     "showIcons": false
   }
 }

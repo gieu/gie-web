@@ -11,12 +11,12 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Grupo Informática educativa - Universidad del Norte" />
-      <Page useSplashScreenAnimation>
-        <HeroSection sectionId="Hero" />
+      <Seo title="Grupo Informática educativa" />
+      <Page>
+        <HeroSection sectionId="hero" />
         <ProjectsSection sectionId="projects" heading="Noticias y actividad reciente" />
         <ArticlesSection sectionId="articles" heading="Proyectos recientes" sources={['blog']} />
-        <ContactSection sectionId="contacto" heading="Contacto" />
+        <ContactSection sectionId="contact" heading="Contacto" />
       </Page>
     </>
   );
