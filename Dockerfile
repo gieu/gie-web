@@ -1,14 +1,15 @@
-FROM node:18-alpine AS build
+FROM node:18-alpine
 
 WORKDIR /app
-COPY . .
+COPY . /app
 
-RUN yarn
-RUN yarn build
+RUN npm config set fetch-retry-maxtimeout 120000
 
-FROM nginx:1.18-alpine AS deploy
-#
-WORKDIR /usr/share/nginx/html
-RUN rm -rf ./*
-COPY --from=build /app/public .
-ENTRYPOINT ["nginx", "-g", "daemon off;"]
+RUN npm install
+RUN npm install -g gatsby-cli
+
+RUN gatsby build
+
+EXPOSE 80
+
+CMD gatsby serve --port 80 --host 0.0.0.0
