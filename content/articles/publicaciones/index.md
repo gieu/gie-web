@@ -1,5 +1,5 @@
 ---
-title: "Publicaciones"
+title: "Publicaciones del Grupo"
 description: ""
 date: "2023-04-13"
 banner:
@@ -27,13 +27,13 @@ ul {
 
 # Artículos de revista
 
-[<r>El pensamiento de diseño y la evaluación de políticas e intervenciones sociales: hacia un diálogo realista </r>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qcUVTiUAAAAJ&sortby=pubdate&citation_for_view=qcUVTiUAAAAJ:cFHS6HbyZ2cC)JD Parra, C Vieira. Desafíos 35(1)— 2023 
-    
+[<r>El pensamiento de diseño y la evaluación de políticas e intervenciones sociales: hacia un diálogo realista </r>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qcUVTiUAAAAJ&sortby=pubdate&citation_for_view=qcUVTiUAAAAJ:cFHS6HbyZ2cC)JD Parra, C Vieira. Desafíos 35(1)— 2023
+
 
 [<r>Higher Education Instructors' Beliefs and Conceptions about Remote Education during COVID-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qcUVTiUAAAAJ&sortby=pubdate&citation_for_view=qcUVTiUAAAAJ:4OULZ7Gr8RgC)<br>C Ricardo, C Vieira. RIED- REVISTA IBEROAMERICANA DE EDUCACION A DISTANCIA 26(1), 17-37 — 2023
-    
+
 [<r>Creencias y concepciones docentes de educación superior en enseñanza remota en el Contexto de COVID-19</r>](https://www.redalyc.org/journal/3314/331473090002/)<br>C Ricardo, C Vieira. RIED. Revista Iberoamericana de Educación a Distancia 26(1), 17-37  — 2023
-    
+
 [<r>Data science knowledge integration: Affordances of a computational cognitive apprenticeship on student conceptual understanding</r>](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22580)<br>M Sánchez‐Peña, C Vieira, AJ Magana. Computer Applications in Engineering Education — 2022
 
 [<r>Measuring Cognitive Loads while Learning Computational Statistics</r>](https://ieeexplore.ieee.org/abstract/document/9962606)<br> R Quintero-Manes, C Vieira, N Hernandez-Vargas. 2022 IEEE Frontiers in Education Conference(FIE), 1-4 — 2022
