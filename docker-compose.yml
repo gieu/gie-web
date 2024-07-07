@@ -1,6 +1,7 @@
 version: '3'
 services:
-  app:
+  gieweb:
+    container_name: gieweb
     image: gatsby-docker
     build:
       context: .
